@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UnoAppTest2.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
